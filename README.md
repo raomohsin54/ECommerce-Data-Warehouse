@@ -1,5 +1,7 @@
 # E-Commerce Data Warehouse
 
+![_- visual selection](https://github.com/user-attachments/assets/f5a840a6-227f-4ea0-9f2e-4b262c9ceecb)
+
 ## Overview
 This repository contains the design and implementation of an **E-Commerce Data Warehouse (DW)** for managing and analyzing sales data. The goal is to provide a structured environment for querying and analyzing key business insights such as customer purchases, product performance, payment methods, shipping costs, and sales trends. The data warehouse is built using SQL Server with a star schema approach, featuring fact and dimension tables.
 
